@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "優しい歌",
+  "base_artist": "Mr.Children",
+  "createdAt": "2025-12-02T21:44:33.051372Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "優しい歌",
+      "artist": "Piana",
+      "has_synced": false,
+      "path": "select/01_優しい歌_Piana.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "優しい歌",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/02_優しい歌_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "優しい歌",
+      "artist": "ribbon",
+      "has_synced": false,
+      "path": "select/03_優しい歌_ribbon.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "優しい歌",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/04_優しい歌_Mr.Children.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "優しい歌",
+      "artist": "MUCC",
+      "has_synced": true,
+      "path": "select/05_優しい歌_MUCC.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "優しい歌",
+      "artist": "Bank Band",
+      "has_synced": true,
+      "path": "select/06_優しい歌_Bank_Band.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "優しい歌 Live ver. (2007/03/23 Saarbrucken GERMANY)",
+      "artist": "ムック",
+      "has_synced": false,
+      "path": "select/07_優しい歌_Live_ver._(2007_03_23_Saarbrucken_GERMANY)_ムック.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "優しい歌",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/pl_01_優しい歌_Mr.Children.txt"
+    }
+  ]
+}
